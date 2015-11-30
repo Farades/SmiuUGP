@@ -1,0 +1,14 @@
+
+{
+	"UpdateRate": 500,
+	"PlcAddress": "00C8",
+	"UseLocalHost": true,
+	"Application": "Application",
+	"StartVisu": "main",
+	"BestFit": false,
+	"LogLevel": "INFO",
+	"CommBufferSize": 50000,
+    "HasKeyboard": false,
+    "TouchHandlingActive": false,
+    "ScaleTypeIsotropic": true
+}
